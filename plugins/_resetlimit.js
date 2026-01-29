@@ -27,7 +27,7 @@ cron.schedule(
 
       let capt = `*Limit user telah direset ke default..*`
 
-      conn.reply('6282322962313@s.whatsapp.net', capt, q)
+      conn.reply('6285189774327@s.whatsapp.net', capt, q)
       messageSent = true
     }
   },
