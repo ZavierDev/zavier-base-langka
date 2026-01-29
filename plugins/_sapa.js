@@ -28,7 +28,7 @@ handler.before = async function (m, { conn, participants, isPrems }) {
     case `6285189774327s.whatsapp.net`:
       messageText = 'hadiah gw mana woi😹'
       break
-    case `6285863223619@s.whatsapp.net`:
+    case `62812658684339@s.whatsapp.net`:
       messageText = 'Hai owner yang baik hati dan dermawan anti kikir'
       break
     default:
