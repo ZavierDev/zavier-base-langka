@@ -1,4 +1,4 @@
-const EXCEPT = ['6285281716711', '6282322962313']
+const EXCEPT = ['6281265868433']
 
 function normalizeNumber(text) {
     if (!text) return null
