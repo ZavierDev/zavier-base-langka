@@ -21,11 +21,11 @@ handler.before = async function (m, { conn, participants, isPrems }) {
   let mentionedUsers = participants.map((u) => u.id).filter((v) => v !== conn.user.jid)
 
   switch (m.sender) {
-    case `6282322962313@s.whatsapp.net`:
+    case `62881026602593@s.whatsapp.net`:
       messageText = 'alo rei >.<'
       break
       break
-    case `628217618740@s.whatsapp.net`:
+    case `6285189774327s.whatsapp.net`:
       messageText = 'hadiah gw mana woi😹'
       break
     case `6285863223619@s.whatsapp.net`:
